@@ -1,3 +1,20 @@
-h1{
-	color: red;
+h1 {
+    color: red;
+}
+
+p {
+    color: blue;
+}
+
+div.key {
+    display: inline;
+    padding: 5px;
+    background-color: yellow;
+    border: 1px solid black;
+}
+
+img {
+    display: inline-block;
+    margin-top: 10px;
+    border: 10px solid silver;
 }
